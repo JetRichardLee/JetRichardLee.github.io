@@ -3,11 +3,11 @@ title: "Graph Neural Network Explanations are Fragile."
 collection: publications
 category: conferences
 permalink: https://arxiv.org/abs/2406.03193
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper studies the vulnerability of GNN explanations.'
 date: 2024-07-05
 venue: 'ICML 2024'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/pdf/2406.03193'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Jiate Li, Meng Pang, Yun Dong, Jinyuan Jia, Binghui Wang. (2024). &quot;Graph Neural Network Explanations are Fragile.&quot; <i>ICML 2024</i>. 1(1).'
 ---
