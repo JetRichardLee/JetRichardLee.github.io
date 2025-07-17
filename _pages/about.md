@@ -27,19 +27,19 @@ Publications
 Education
 ====
 * Incoming Ph.D .in Computer Science, **University of Southern California**, 2025-Now
-  * Supervisor: Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
+     * Supervisor: Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
 * Master of Computing, Artificial Intelligence Specialisation, **National University of Singapore**, 2022-2023
 * B.S. in Computer Science and Technology, **Zhejiang University**, 2018-2022
 
 Work experience
 ====
 
-* [Fall 2024-Spring 2025]: Research Assistant
+* Fall 2024-Spring 2025: Research Assistant
   * **Nayang Techonology University**
   * Research Interests: GNN application
   * Supervisor: Prof. [Siqiang Luo](https://siqiangluo.com/)
 
-* [Fall 2022-Fall 2024]: Research Intern (Remote)
+* Fall 2022-Fall 2024: Research Intern (Remote)
   * **Illinois Institute of Technology**
   * Research Interests: GNN Robustness
   * Supervisor: Prof. [Binghui Wang](https://wangbinghui.net/)
