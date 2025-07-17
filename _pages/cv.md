@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Incoming Ph.D in Computer Science, University of Southern California, 2025-Now
+  * Supervisor: Prof. Yue Zhao
+* Master of Computing, Artificial Intelligence Specialisation, National University of Singapore, 2022-2023
+* B.S. in Computer Science and Technology, Zhejiang University, 2018-2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Research Assistant
+  * Nayang Techonology University
+  * Research Interests: GNN application
+  * Supervisor: Prof. Siqiang Luo
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Research Intern
+  * Illinois Institute of Technology
+  * Research Interests: GNN Robustness
+  * Supervisor: Prof. Binghui Wang
   
 Skills
 ======
