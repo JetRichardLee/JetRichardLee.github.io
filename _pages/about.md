@@ -13,9 +13,9 @@ Before joining USC, I worked as a remote research intern under the mentorship of
 
 News
 ====
-**[2025.7.16]** Thanks to Usenix Sec 25' for the Professinal Grant to the conference.
+**[2025.07.16]** Thanks to Usenix Sec 25' for the Professinal Grant to the conference.
 
-**[2025.3.11]** I'm joining USC in 25Fall to start my Ph.D study!
+**[2025.03.11]** I'm joining USC in 25Fall to start my Ph.D study!
 
 
 Publications
