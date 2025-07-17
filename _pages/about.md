@@ -23,31 +23,35 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+ 
+Services
+====
+Conference Reviewer at NeurIPS (2025).
+
+Awards
+====
+Usenix Security 2025 Professional Grant.
+
 
 Education
 ====
-* Incoming Ph.D .in Computer Science, **University of Southern California**, 2025-Now
+* 2025-Present: Incoming Ph.D. in Computer Science,
+     * Thomas Lord Department of Computer Science, University of Southern California
      * Supervisor: Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
-* Master of Computing, Artificial Intelligence Specialisation, **National University of Singapore**, 2022-2023
-* B.S. in Computer Science and Technology, **Zhejiang University**, 2018-2022
+* 2022-2023: Master of Computing, Artificial Intelligence Specialisation
+     * School of Computing, National University of Singapore
+* 2018-2022: Bachelor of Engineering in Computer Science and Technology,
+     * College of Computer Science and Technology, Zhejiang University
 
 Work experience
 ====
 
 * Fall 2024-Spring 2025: Research Assistant
-  * **Nayang Techonology University**
+  * Nayang Techonology University
   * Research Interests: GNN application
   * Supervisor: Prof. [Siqiang Luo](https://siqiangluo.com/)
 
 * Fall 2022-Fall 2024: Research Intern (Remote)
-  * **Illinois Institute of Technology**
-  * Research Interests: GNN Robustness
+  * Illinois Institute of Technology
+  * Research Interests: GNN Trustworthiness
   * Supervisor: Prof. [Binghui Wang](https://wangbinghui.net/)
-    
-Awards
-====
-Usenix Security 2025 Professional Grant.
-
-Services
-====
-Conference Reviewer at NeurIPS (2025).
