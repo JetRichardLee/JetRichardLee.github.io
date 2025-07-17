@@ -40,21 +40,23 @@ Education
     * Thomas Lord Department of Computer Science, University of Southern California
     * Supervisor: Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
 * Master of Computing with Artificial Intelligence Specialisation,
-  <div style="text-align: right;">2022-2023, Singapore </div>
+  <div style="text-align: right;line-height: 0.0">2022-2023, Singapore </div>
     * School of Computing, National University of Singapore
 * Bachelor of Engineering in Computer Science and Technology,
-  <div style="text-align: right;">2018-2022</div>
+  <div style="text-align: right;line-height: 0.0">2018-2022</div>
     * College of Computer Science and Technology, Zhejiang University
 
 Work experience
 ====
 
-* Fall 2024-Spring 2025: Research Assistant
+* Research Assistant
+  <div style="text-align: right;line-height: 0.0">Fall 2024-Spring 2025</div>
   * Nayang Techonology University
   * Research Interests: GNN application
   * Supervisor: Prof. [Siqiang Luo](https://siqiangluo.com/)
 
-* Fall 2022-Fall 2024: Research Intern (Remote)
+* Research Intern (Remote)
+  <div style="text-align: right;line-height: 0.0">Fall 2022-Fall 2024</div>
   * Illinois Institute of Technology
   * Research Interests: GNN Trustworthiness
   * Supervisor: Prof. [Binghui Wang](https://wangbinghui.net/)
