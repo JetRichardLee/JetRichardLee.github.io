@@ -13,9 +13,9 @@ Before joining USC, I worked as a remote research intern under the mentorship of
 
 News
 ====
-**[25/7/16]** Thanks to Usenix Sec 25' for the Professinal Grant to the conference.
+**[2025.7.16]** Thanks to Usenix Sec 25' for the Professinal Grant to the conference.
 
-**[25/3/11]** I'm joining USC in 25Fall to start my Ph.D study!
+**[2025.3.11]** I'm joining USC in 25Fall to start my Ph.D study!
 
 
 Publications
@@ -35,13 +35,13 @@ Usenix Security 2025 Professional Grant.
 
 Education
 ====
-* Incoming Ph.D. in Computer Science, 2025-Present
-     * Thomas Lord Department of Computer Science, University of Southern California
-     * Supervisor: Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
-* Master of Computing with Artificial Intelligence Specialisation, 2022-2023 
-     * School of Computing, National University of Singapore
-* Bachelor of Engineering in Computer Science and Technology, 2018-2022
-     * College of Computer Science and Technology, Zhejiang University
+* Incoming Ph.D. in Computer Science, <div style="text-align: right;"> 2025-Present </div>
+     <div style="text-align: right;">* Thomas Lord Department of Computer Science, University of Southern California</div>
+     <div style="text-align: right;">* Supervisor: Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)</div>
+* Master of Computing with Artificial Intelligence Specialisation, <div style="text-align: right;">2022-2023 </div>
+     <div style="text-align: right;">* School of Computing, National University of Singapore</div>
+* Bachelor of Engineering in Computer Science and Technology, <div style="text-align: right;">2018-2022</div>
+     <div style="text-align: right;">* College of Computer Science and Technology, Zhejiang University </div>
 
 Work experience
 ====
