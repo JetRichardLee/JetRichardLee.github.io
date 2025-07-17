@@ -13,9 +13,9 @@ Before joining USC, I worked as a remote research intern under the mentorship of
 
 News
 ====
-**[2025.07.16]** Thanks to Usenix Sec 25' for the Professinal Grant to the conference.
+**[2025.07.16]** Thanks to USENIX Sec 25' for the Professinal Grant to me for attending the conference.
 
-**[2025.03.11]** I'm joining USC in 25Fall to start my Ph.D study!
+**[2025.03.11]** I'm joining USC in 25Fall to start my Ph.D. study!
 
 
 Publications
@@ -30,13 +30,13 @@ Conference Reviewer at NeurIPS (2025).
 
 Awards
 ====
-Usenix Security 2025 Professional Grant.
+USENIX Security 2025 Professional Grant.
 
 
 Education
 ====
 * Incoming Ph.D. in Computer Science,
-    <div style="text-align: right;line-height: 0.2"> 2025-Present </div>
+    <div style="text-align: right;line-height: 0.2"> 2025-Present, Los Angeles </div>
     * Thomas Lord Department of Computer Science, University of Southern California
     * Supervisor: Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
  <div style="text-align: right;line-height: 1.5"> </div>
@@ -45,20 +45,20 @@ Education
     * School of Computing, National University of Singapore
  <div style="text-align: right;line-height: 1.5"> </div>
 * Bachelor of Engineering in Computer Science and Technology,
-  <div style="text-align: right;line-height: 0.2">2018-2022</div>
+  <div style="text-align: right;line-height: 0.2">2018-2022, Hangzhou</div>
     * College of Computer Science and Technology, Zhejiang University
 
 Work experience
 ====
 
 * Research Assistant
-  <div style="text-align: right;line-height: 0.2">Fall 2024-Spring 2025</div>
+  <div style="text-align: right;line-height: 0.2">Fall 2024-Spring 2025, Singapore</div>
   * Nayang Techonology University
   * Research Interests: GNN application
   * Supervisor: Prof. [Siqiang Luo](https://siqiangluo.com/)
  <div style="text-align: right;line-height: 1.5"> </div>
-* Research Intern (Remote)
-  <div style="text-align: right;line-height: 0.2">Fall 2022-Fall 2024</div>
+* Research Intern 
+  <div style="text-align: right;line-height: 0.2">Fall 2022-Fall 2024, Remote</div>
   * Illinois Institute of Technology
   * Research Interests: GNN Trustworthiness
   * Supervisor: Prof. [Binghui Wang](https://wangbinghui.net/)
