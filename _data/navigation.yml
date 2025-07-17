@@ -12,21 +12,20 @@ main:
   - title: "News"
     url: "/#news"
     
-  - title: "Education"
-    url: "/#education"
-    
   - title: "Publications"
     url: "/#publications"
-
   
-  - title: "Service"
-    url: "/#service"
+  - title: "Services"
+    url: "/#services"
     
   - title: "Awards"
     url: "/#awards"
     
   - title: "Education"
     url: "/#education"
+  
+  - title: "Work Experience"
+    url: "/#work-experience"
     #/publications/
 
 #  - title: "Talks"
