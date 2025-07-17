@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone, I'm Jiate Li, an incoming Ph.D. student at Thomas Lord Department of Computer Science, **University of Southern California**. supervised by Prof. Yue Zhao. For ease of pronouncing you can call me Jet Lee.
+Hi everyone, I'm Jiate Li, an incoming Ph.D. student at Thomas Lord Department of Computer Science, **University of Southern California**. supervised by Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/). For ease of pronouncing you can call me *Jet Lee*.
 
-Before joining USC, I worked as a remote research intern under the mentorship of Prof. Binghui Wang from **Illinois Institute of Technology**, and conducted research on the *GNN Trustworthiness* in 2022-2024. In 2024-2025, I worked as a research assitant under the mentorship of Prof. Siqiang Luo in CCDS at **Nayang Technology University**, where I researched on *GNN applications*. I received my bachelor degree at **Zhejiang University** in 2022 and my master degree at **National University of Singapore** in 2023.
+Before joining USC, I worked as a remote research intern under the mentorship of Prof. [Binghui Wang](https://wangbinghui.net/) from **Illinois Institute of Technology**, and conducted research on the *GNN Trustworthiness* in 2022-2024. In 2024-2025, I worked as a research assitant under the mentorship of Prof. [Siqiang Luo](https://siqiangluo.com/) in CCDS at **Nayang Technology University**, where I researched on *GNN applications*. I received my bachelor degree at **Zhejiang University** in 2022 and my master degree at **National University of Singapore** in 2023.
 
 News
 ======
@@ -26,10 +26,10 @@ Publications
 
 Education
 ======
-* Incoming Ph.D .in Computer Science, University of Southern California, 2025-Now
-  * Supervisor: Prof. Yue Zhao
-* Master of Computing, Artificial Intelligence Specialisation, National University of Singapore, 2022-2023
-* B.S. in Computer Science and Technology, Zhejiang University, 2018-2022
+* Incoming Ph.D .in Computer Science, **University of Southern California**, 2025-Now
+  * Supervisor: Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
+* Master of Computing, Artificial Intelligence Specialisation, **National University of Singapore**, 2022-2023
+* B.S. in Computer Science and Technology, **Zhejiang University**, 2018-2022
 
 Work experience
 ======
@@ -37,12 +37,12 @@ Work experience
 * **[Fall 2024-Spring 2025]**: Research Assistant
   * **Nayang Techonology University**
   * Research Interests: GNN application
-  * Supervisor: Prof. Siqiang Luo
+  * Supervisor: Prof. [Siqiang Luo](https://siqiangluo.com/)
 
 * **[Fall 2022-Fall 2024]**: Research Intern (Remote)
   * **Illinois Institute of Technology**
   * Research Interests: GNN Robustness
-  * Supervisor: Prof. Binghui Wang
+  * Supervisor: Prof. [Binghui Wang](https://wangbinghui.net/)
     
 Awards
 ======
