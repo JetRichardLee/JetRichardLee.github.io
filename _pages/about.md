@@ -13,7 +13,7 @@ Before joining USC, I worked as a remote research intern under the mentorship of
 
 News
 ====
-**[2025.07.16]** I receive USENIX Sec 25' Professinal Grant for attending the conference. Thanks for the support!
+**[2025.07.16]** I receive USENIX Sec 25' Professional Grant for attending the conference. Thanks for the support!
 
 **[2025.03.11]** I'm joining USC in 25Fall to start my Ph.D. study!
 
