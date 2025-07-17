@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Deterministic Certification of Graph Neural Networks against Graph Poisoning Attacks with Arbitrary Perturbations"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: https://arxiv.org/abs/2503.18503
+excerpt: 'This paper extends AGNNCert to defending posioning attack.'
+date: 202-03-24
+venue: 'CVPR 2025'
+paperurl: 'https://arxiv.org/pdf/2503.18503'
+citation: 'Jiate Li, Meng Pang, Yun Dong, Binghui Wang. (2025). &quot;Paper Title Number 3.&quot; <i>CVPR 2025</i>. 1(3).'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
