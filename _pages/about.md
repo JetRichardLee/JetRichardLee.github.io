@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone, I'm Jiate Li, an incoming Ph.D. student at Thomas Lord Department of Computer Science, *University of Southern California*. supervised by Prof. Yue Zhao. For ease of pronouncing you can call me Jet Lee. Before joining USC, I worked as a research intern under the mentorship of Prof. Binghui Wang from Illinois Institute of Technology, and researched on the *GNN Trustworthiness* in 2022-2024. I also worked as a research assitant under the mentorship of Prof. Siqiang Luo in CCDS, where I researched on *GNN applications* in 2024-2025.
+Hi everyone, I'm Jiate Li, an incoming Ph.D. student at Thomas Lord Department of Computer Science, **University of Southern California**. supervised by Prof. Yue Zhao. For ease of pronouncing you can call me Jet Lee. Before joining USC, I worked as a research intern under the mentorship of Prof. Binghui Wang from **Illinois Institute of Technology**, and conducted research on the *GNN Trustworthiness* in 2022-2024. I also worked as a research assitant under the mentorship of Prof. Siqiang Luo in CCDS at **Nayang Technology University**, where I researched on *GNN applications* in 2024-2025. I received my bachelor degree at **Zhejiang University** in 2022 and my master degree at **National University of Singapore** in 2023.
 
 News
 ======
@@ -31,12 +31,12 @@ Education
 Work experience
 ======
 
-* Fall 2024-Spring 2025: Research Assistant
+* [Fall 2024-Spring 2025]: Research Assistant
   * Nayang Techonology University
   * Research Interests: GNN application
   * Supervisor: Prof. Siqiang Luo
 
-* Fall 2022-Fall 2024: Research Intern
+* [Fall 2022-Fall 2024]: Research Intern
   * Illinois Institute of Technology
   * Research Interests: GNN Robustness
   * Supervisor: Prof. Binghui Wang
