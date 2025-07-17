@@ -11,8 +11,9 @@ Hi everyone, I'm Jiate Li, an incoming Ph.D. student at Thomas Lord Department o
 
 News
 ======
-[25/7/16] Thanks to Usenix Sec25' for the Professinal Grant to the conference.
-[25/3/11] I'm joining USC in 25Fall to start my Ph.D study!
+**[25/7/16]** Thanks to Usenix Sec25' for the Professinal Grant to the conference.
+
+**[25/3/11]** I'm joining USC in 25Fall to start my Ph.D study!
 
 
 Publications
@@ -23,7 +24,7 @@ Publications
 
 Education
 ======
-* Incoming Ph.D in Computer Science, University of Southern California, 2025-Now
+* Incoming Ph.D .in Computer Science, University of Southern California, 2025-Now
   * Supervisor: Prof. Yue Zhao
 * Master of Computing, Artificial Intelligence Specialisation, National University of Singapore, 2022-2023
 * B.S. in Computer Science and Technology, Zhejiang University, 2018-2022
@@ -31,13 +32,13 @@ Education
 Work experience
 ======
 
-* [Fall 2024-Spring 2025]: Research Assistant
-  * Nayang Techonology University
+* **[Fall 2024-Spring 2025]**: Research Assistant
+  * **Nayang Techonology University**
   * Research Interests: GNN application
   * Supervisor: Prof. Siqiang Luo
 
-* [Fall 2022-Fall 2024]: Research Intern
-  * Illinois Institute of Technology
+* **[Fall 2022-Fall 2024]**: Research Intern (Remote)
+  * **Illinois Institute of Technology**
   * Research Interests: GNN Robustness
   * Supervisor: Prof. Binghui Wang
     
@@ -47,4 +48,4 @@ Usenix Security 2025 Professional Grant.
 
 Services
 ======
-Conference Reviewer at NeruIPS (2025).
+Conference Reviewer at NeurIPS (2025).
