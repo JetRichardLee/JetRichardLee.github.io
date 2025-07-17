@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiate Li's Homepage"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,14 +11,14 @@ Hi everyone, I'm Jiate Li, an incoming Ph.D. student at Thomas Lord Department o
 
 Before joining USC, I worked as a remote research intern under the mentorship of Prof. [Binghui Wang](https://wangbinghui.net/) from **Illinois Institute of Technology**, and conducted research on the *GNN Trustworthiness* in 2022-2024. In 2024-2025, I worked as a research assitant under the mentorship of Prof. [Siqiang Luo](https://siqiangluo.com/) in CCDS at **Nayang Technology University**, where I researched on *GNN applications*. I received my bachelor degree at **Zhejiang University** in 2022 and my master degree at **National University of Singapore** in 2023.
 
-News
+#News
 ======
 **[25/7/16]** Thanks to Usenix Sec25' for the Professinal Grant to the conference.
 
 **[25/3/11]** I'm joining USC in 25Fall to start my Ph.D study!
 
 
-Publications
+#Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
