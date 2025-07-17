@@ -35,12 +35,12 @@ Usenix Security 2025 Professional Grant.
 
 Education
 ====
-* 2025-Present: Incoming Ph.D. in Computer Science,
+* Incoming Ph.D. in Computer Science, 2025-Present
      * Thomas Lord Department of Computer Science, University of Southern California
      * Supervisor: Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
-* 2022-2023: Master of Computing, Artificial Intelligence Specialisation
+* Master of Computing with Artificial Intelligence Specialisation, 2022-2023 
      * School of Computing, National University of Singapore
-* 2018-2022: Bachelor of Engineering in Computer Science and Technology,
+* Bachelor of Engineering in Computer Science and Technology, 2018-2022
      * College of Computer Science and Technology, Zhejiang University
 
 Work experience
