@@ -1,5 +1,5 @@
 ---
-title: "AGNNCert: Defending Graph Neural Networks against Arbitrary Perturbations with Deterministic Certification"
+title: "AGNNCert Defending Graph Neural Networks against Arbitrary Perturbations with Deterministic Certification"
 collection: publications
 category: conferences
 permalink: https://arxiv.org/abs/2502.00765
