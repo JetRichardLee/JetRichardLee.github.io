@@ -1,11 +1,11 @@
 ---
-title: "“
+title: "AGNNCert: Defending Graph Neural Networks against Arbitrary Perturbations with Deterministic Certification"“
 collection: publications
 category: conferences
 permalink: https://arxiv.org/abs/2502.00765
 excerpt: 'This paper proposed a SOTA certified robust GNN method against arbitary evasion attack.'
 date: 2025-02-02
-venue: 'Usenix Security 2025'
+venue: 'Usenix Security'
 paperurl: 'https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-510-li-jiate.pdf'
 citation: 'Jiate Li, Binghui Wang. (2024). &quot;AGNNCert: Defending Graph Neural Networks against Arbitrary Perturbations with Deterministic Certification.&quot; <i>Usenix Security 25'</i>. 1(3).'
 ---
