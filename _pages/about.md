@@ -48,7 +48,7 @@ Education
   <div style="text-align: right;line-height: 0.2">2018-2022, Hangzhou</div>
     * College of Computer Science and Technology, Zhejiang University
 
-Work experience
+Work Experience
 ====
 
 * Research Assistant
