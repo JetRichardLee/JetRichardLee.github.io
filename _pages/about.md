@@ -35,7 +35,7 @@ USENIX Security 2025 Professional Grant.
 
 Education
 ====
-* Ph.D. in Computer Science,
+* Ph.D. Student in Computer Science,
     <div style="text-align: right;line-height: 0.2"> 2025-Present, Los Angeles </div>
     * Thomas Lord Department of Computer Science, University of Southern California
     * Supervisor: Prof. [Yue Zhao](https://viterbi-web.usc.edu/~yzhao010/)
