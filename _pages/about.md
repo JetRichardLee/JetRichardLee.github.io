@@ -26,7 +26,8 @@ Publications
  
 Services
 ====
-Program Committee Member of NeurIPS (2025).
+Program Committee Member of AAAI (2026).
+Conference Reviewer of NeurIPS (2025).
 
 Awards
 ====
@@ -53,7 +54,7 @@ Work Experience
 
 * Research Assistant
   <div style="text-align: right;line-height: 0.2">Fall 2024-Spring 2025, Singapore</div>
-  * Nayang Technological University
+  * Nanyang Technological University
   * Research Interests: GNN Application
   * Supervisor: Prof. [Siqiang Luo](https://siqiangluo.com/)
  <div style="text-align: right;line-height: 1.5"> </div>
