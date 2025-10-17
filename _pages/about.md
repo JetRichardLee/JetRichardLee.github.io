@@ -13,6 +13,8 @@ Before joining USC, I worked as a remote research intern under the mentorship of
 
 News
 ====
+**[2025.10.17]** I am selected as one of "Top Reviewer" for NeurIPS 2025. Thanks for recognization!
+
 **[2025.07.16]** I receive USENIX Sec 25' Professional Grant for attending the conference. Thanks for the support!
 
 **[2025.03.11]** I'm joining USC in 25'Fall to start my CS Ph.D. study!
@@ -32,7 +34,9 @@ Conference Reviewer of NeurIPS (2025).
 
 Awards
 ====
-USENIX Security 2025 Professional Grant.
+NeurIPS 2025 Top Reviewer
+
+USENIX Security 2025 Professional Grant
 
 
 Education
