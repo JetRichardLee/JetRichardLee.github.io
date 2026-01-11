@@ -28,13 +28,9 @@ Publications
  
 Services
 ====
-Reviewer of IEEE T-IFS.
+Journal Reviewer of IEEE T-IFS.
 
-Conference Reviewer of ICLR (2026).
-
-Program Committee Member of AAAI (2026).
-
-Conference Reviewer of NeurIPS (2025).
+Conference Reviewer of ICLR (2026), NeurIPS (2025), AAAI (2026).
 
 Artifacts Reviewer of Usenix Security (2026).
 
