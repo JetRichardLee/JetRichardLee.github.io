@@ -13,6 +13,8 @@ Before joining USC, I worked as a remote research intern under the mentorship of
 
 News
 ====
+**[2025.01.27]** I am joining Tiktok as a research scientist intern in this summer from May. Looking forward to the trip to San Jose! 
+
 **[2025.10.17]** I am selected as one of "Top Reviewer" for NeurIPS 2025. Thanks for recognization!
 
 **[2025.07.16]** I receive USENIX Sec 25' Professional Grant for attending the conference. Thanks for the support!
@@ -30,7 +32,7 @@ Services
 ====
 Journal Reviewer of IEEE T-IFS.
 
-Conference Reviewer of ICLR (2026), NeurIPS (2025), AAAI (2026).
+Conference Reviewer of ICLR (2026), NeurIPS (2025), AAAI (2026), ICML (2026).
 
 Artifacts Reviewer of Usenix Security (2026).
 
