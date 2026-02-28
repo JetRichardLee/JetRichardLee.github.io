@@ -13,7 +13,7 @@ Before joining USC, I worked as a remote research intern under the mentorship of
 
 News
 ====
-**[2025.01.27]** I am joining Tiktok as a research scientist intern in this summer. Hope to meet guys in San Jose! 
+**[2026.01.27]** I am joining Tiktok as a research scientist intern in this summer. Hope to meet guys in San Jose! 
 
 **[2025.10.17]** I am selected as one of "Top Reviewer" for NeurIPS 2025. Thanks for recognization!
 
