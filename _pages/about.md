@@ -30,7 +30,7 @@ Publications
  
 Services
 ====
-Journal Reviewer of IEEE T-IFS.
+Journal Reviewer of IEEE T-IFS, Pattern Recognition.
 
 Conference Reviewer of ICLR (2026), NeurIPS (2025), AAAI (2026), ICML (2026).
 
