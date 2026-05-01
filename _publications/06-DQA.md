@@ -9,4 +9,3 @@ venue: 'ICML 2026'
 paperurl: 'https://arxiv.org/pdf/2602.00364'
 citation: 'Jiate Li, Defu Cao, Li Li, Wei Yang, Yuehan Qin, Chenxiao Yu, Tiannuo Yang, Ryan A Rossi, Yan Liu, Xiyang Hu, Yue Zhao. (2025). &quot;" Someone Hid It": Query-Agnostic Black-Box Attacks on LLM-Based Retrieval.&quot; <i>ICML 2026</i>.'
 ---
-
