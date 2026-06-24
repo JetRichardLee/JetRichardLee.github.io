@@ -30,15 +30,17 @@ Publications
  
 Services
 ====
-Journal Reviewer of IEEE T-IFS, Pattern Recognition.
+Journal Reviewer of IEEE T-IFS, Pattern Recognition, TDSC, TMLR.
 
-Conference Reviewer of ICLR (2026), NeurIPS (2025), AAAI (2026), ICML (2026).
+Conference Reviewer of ICLR (2026), NeurIPS (2025, 2026), AAAI (2026), ICML (2026).
 
 Artifacts Reviewer of Usenix Security (2026).
 
 Awards
 ====
 NeurIPS 2025 Top Reviewer
+
+ICML 2026 Silver Reviewer
 
 USENIX Security 2025 Professional Grant
 
@@ -60,7 +62,12 @@ Education
 
 Work Experience
 ====
-
+* Research Scientist Intern
+  <div style="text-align: right;line-height: 0.2">May 2026-Aug 2026, San Jose</div>
+  * Tiktok Inc.
+  * Research Interests: Video Moderation, Multimodal Agent
+  * Group: Trust & Safety
+ <div style="text-align: right;line-height: 1.5"> </div>
 * Research Assistant
   <div style="text-align: right;line-height: 0.2">Fall 2024-Spring 2025, Singapore</div>
   * Nanyang Technological University
