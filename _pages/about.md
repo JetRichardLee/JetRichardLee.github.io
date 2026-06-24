@@ -68,12 +68,14 @@ Work Experience
   * Research Interests: Video Moderation, Multimodal Agent
   * Group: Trust & Safety
  <div style="text-align: right;line-height: 1.5"> </div>
+ 
 * Research Assistant
   <div style="text-align: right;line-height: 0.2">Fall 2024-Spring 2025, Singapore</div>
   * Nanyang Technological University
   * Research Interests: GNN Application
   * Supervisor: Prof. [Siqiang Luo](https://siqiangluo.com/)
  <div style="text-align: right;line-height: 1.5"> </div>
+ 
 * Research Intern 
   <div style="text-align: right;line-height: 0.2">Fall 2022-Fall 2024, Remote</div>
   * Illinois Institute of Technology
